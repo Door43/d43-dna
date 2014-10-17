@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dna:home|Door43 (dna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dna|d43-dna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dna/archive/master.zip|d43-dna.zip]]
+
+**Recent Changes**
+{{changes>ns = dna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dna|Ethnologue data]]
+
